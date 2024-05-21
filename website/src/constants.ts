@@ -1,0 +1,1 @@
+export const BASE_URL = "https://strapixcloud2-pm4voc2waa-uc.a.run.app"
